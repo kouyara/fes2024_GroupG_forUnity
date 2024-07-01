@@ -1,0 +1,2 @@
+# fes2024_GroupG_forUnity
+建築情報学会 fes2024 GroupGのUnity用のリポジトリ
